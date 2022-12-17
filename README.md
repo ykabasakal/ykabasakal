@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ykabasakal
-- 👀 I’m interested in javascript 
-- 🌱 I’m currently learning phyton
-- Founder of www.flightsupport24.com 
+- 👋 Hi, I’m Yusuf Kabasakal
+- 👀 interested in javascript 
+- 🌱 currently learning phyton
+- ☀️ Founder of www.flightsupport24.com 
 
 <!---
 ykabasakal/ykabasakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
