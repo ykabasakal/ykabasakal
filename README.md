@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yusuf Kabasakal
 - 👀 interested in javascript 
-- 🌱 currently learning phyton
 - ☀️ Founder of www.flightsupport24.com 
 
 <!---
