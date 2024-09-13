@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf Kabasakal
 - 👀 interested in javascript 
-- ☀️ Founder of www.flightsupport24.com 
+- ☀️ Founder of flightsupport24.com & Airops.net
 
 <!---
 ykabasakal/ykabasakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
