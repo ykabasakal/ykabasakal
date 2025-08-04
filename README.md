@@ -3,5 +3,5 @@
 - Husband
 - Daddy
 - 👀 interested in javascript 
-- ☀️ Founder of Airops.net & FlightSupport24
+- ☀️ Founder of Airops.aero & FlightSupport24
  
